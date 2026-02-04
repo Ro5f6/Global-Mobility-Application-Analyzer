@@ -1,0 +1,21 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+imblearn
+xgboost
+catboost
+pymongo
+from_root
+evidently==0.2.8  #datadriftdetection
+dill
+PyYAML
+neuro_mf #hyperparameter tuning
+boto3   #AWS authentication
+mypy-boto3-s3 #AWS S3
+botocore
+fastapi
+uvicorn
+jinja2
+python-multipart
